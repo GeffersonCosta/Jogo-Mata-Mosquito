@@ -13,7 +13,7 @@ O jogo **Mata Mosquito** é intuitivamente nomeado conforme seu objetivo princip
  ![Mobile 3](https://github.com/GeffersonCosta/Jogo-Mata-Mosquito/blob/main/assets/img3.jpg)
  
 ## Layout web
- ![Web 2]((https://github.com/RayMurras/horizons/blob/main/images/imgs-readme/web-img-index1.png)
+ ![Web 2](https://github.com/RayMurras/horizons/blob/main/images/imgs-readme/web-img-index1.png)
 
 # Tecnologias utilizadas
 

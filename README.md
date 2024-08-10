@@ -1,4 +1,4 @@
-# Jogo Mata Mosquito
+# Projeto HORIZONS TRAVEL AGENC
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GeffersonCosta/Jogo-Mata-Mosquito/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -13,7 +13,7 @@ O jogo **Mata Mosquito** é intuitivamente nomeado conforme seu objetivo princip
  ![Mobile 3](https://github.com/GeffersonCosta/Jogo-Mata-Mosquito/blob/main/assets/img3.jpg)
  
 ## Layout web
- ![Web 2](https://github.com/GeffersonCosta/Jogo-Mata-Mosquito/blob/main/assets/img4.png)
+ ![Web 2]((https://github.com/RayMurras/horizons/blob/main/images/imgs-readme/web-img-index1.png))
 
 # Tecnologias utilizadas
 
